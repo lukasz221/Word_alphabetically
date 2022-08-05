@@ -1,0 +1,16 @@
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.exe
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.deps.json
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.runtimeconfig.json
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.runtimeconfig.dev.json
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.dll
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\bin\Debug\net5.0\Sorting_letters_in_word.pdb
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.csproj.AssemblyReference.cache
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.AssemblyInfoInputs.cache
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.AssemblyInfo.cs
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.csproj.CoreCompileInputs.cache
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.dll
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\refint\Sorting_letters_in_word.dll
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.pdb
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\Sorting_letters_in_word.genruntimeconfig.cache
+D:\repos\Sorting_letters_in_word\Sorting_letters_in_word\obj\Debug\net5.0\ref\Sorting_letters_in_word.dll
